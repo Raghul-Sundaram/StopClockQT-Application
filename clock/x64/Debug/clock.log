@@ -1,7 +1,10 @@
 ﻿  Uic'ing clock.ui...
+  Rcc'ing clock.qrc...
   Moc'ing clock.h...
-  moc_clock.cpp
+   RCC: Warning: No resources in 'H:\Raghul\Tasks\clockQT\clock\clock.qrc'.
   clock.cpp
   main.cpp
+  qrc_clock.cpp
+  moc_clock.cpp
   clock.vcxproj -> H:\Raghul\Tasks\clockQT\x64\Debug\clock.exe
   clock.vcxproj -> H:\Raghul\Tasks\clockQT\x64\Debug\clock.pdb (Full PDB)
